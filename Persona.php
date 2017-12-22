@@ -56,4 +56,7 @@ $obj2->setNombre("Roberto"); $obj2->setApellido("Durán"); $obj2->setRut("33.763
 echo "<br>".$obj2->saludar_persona().", no te vayai."."<br>Debo volver a mi planeta, ".$obj2->getNombre().".<br>Ah, bueno. Vendisuione entoncez";
 echo "<br>".$obj->getNombre()." ".$obj->getApellido().". Rut: ".$obj->getRut();
 echo "<br>".$obj2->getNombre()." ".$obj2->getApellido().". Rut: ".$obj2->getRut();
+
+/* LOS MANTENIMIENTOS APLICADOS FUERON "CORRECTIVO" Y "PERFECTIVO"*/
+
 ?>
